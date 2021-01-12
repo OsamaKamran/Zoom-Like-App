@@ -1,0 +1,531 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a06210c6361ff3ea980168cfde2160b\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.0-alpha02] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f74387e7965d557ca23f3007b0c16ea0\material-1.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d9af5811d196f85600bee5f06971f000\jetified-viewpager2-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0fe7a84edc604dc56433cdc4c9ec0b62\recyclerview-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cb99e77638f7aea73fdfbb0798f74a2b\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\019045dec5e38f76b552841946c88194\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android:flexbox:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b5140f57f6e3be6dc63569f946063af7\jetified-flexbox-2.0.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6aba77ce87b62d8347ca6f06e6145185\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:commonlib] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\commonlib\build\.transforms\8b35d12b92b561743ca43b106b0314bb\jetified-commonlib\AndroidManifest.xml:2:1-11:12
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:2:1-137:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\844e6d8d110901814b6cf2c0e58db777\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\353b43394016bbb413484215d1af8d33\coordinatorlayout-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e0e654e7f0e4b26ce0ba0fbab7b3ee8b\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\962661a2d0e39df4c213a94473258f8a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6e4c8d1772fc6d6ee2099c68eedf1c03\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5c010204b349cb67993103f3db4846c3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1e19b627048259720a9293cff54eca4b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f571276bff67684a540f564f5677638a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5772398f154fbb421660eae656082fcd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\457b24bb365487f19b919b9304bfe494\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\caea093eaa3f4ab10bb21ae1108e4fce\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4cd09af75b4e9c80a52041a8e1774876\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9f787e057b2287836884ce91071f4cb1\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1653319b2d58e30ed9313b0c2df5947e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\25d8934de3004385e90543e0b354fff1\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\31fe7ec3156d932311e1d63e5afe3838\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a00281b5d84046061d87ced0c5ed5d6f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7526d421bacfef31921c7043f85ffde8\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\13f6a8a8ac08da7eb6eca2e6990d51f4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\be7a7dfb68705840901dbd39fdfd186a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\43a209a1574b998fc4c3256029348641\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:4:5-35
+uses-feature#0x00020000
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:8:5-54
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:12:5-54
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:8:19-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:29:5-81
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:11:5-71
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:36:5-71
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:12:5-77
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:44:5-77
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:44:5-77
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:12:22-74
+application
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:14:5-78:19
+MERGED from [com.google.android.material:material:1.2.0-alpha02] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f74387e7965d557ca23f3007b0c16ea0\material-1.2.0-alpha02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha02] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f74387e7965d557ca23f3007b0c16ea0\material-1.2.0-alpha02\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\019045dec5e38f76b552841946c88194\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\019045dec5e38f76b552841946c88194\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:48:5-135:19
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:48:5-135:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\25d8934de3004385e90543e0b354fff1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\25d8934de3004385e90543e0b354fff1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:17:9-46
+	android:icon
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:16:9-43
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:15:9-61
+activity#us.zoom.sdksample.ui.signup
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:18:9-19:66
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:18:19-44
+activity#us.zoom.sdksample.ui.InitAuthSDKActivity
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:20:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:24:13-50
+	android:configChanges
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:22:13-83
+	android:icon
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:23:13-47
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:21:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:30:27-74
+service#us.zoom.sdksample.ScreenRecordService
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:34:9-36:63
+	android:foregroundServiceType
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:36:13-60
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:35:13-48
+activity#us.zoom.sdksample.ui.LoginUserStartJoinMeetingActivity
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:38:9-48:20
+	android:label
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:41:13-50
+	android:icon
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:40:13-47
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:39:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:43:13-47:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:46:27-73
+activity#us.zoom.sdksample.ui.EmailUserLoginActivity
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:49:9-59:20
+	android:label
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:52:13-50
+	android:icon
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:51:13-47
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:53:13-54
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:50:13-54
+activity#us.zoom.sdksample.inmeetingfunction.customizedmeetingui.MyMeetingActivity
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:61:9-65:56
+	android:screenOrientation
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:64:13-49
+	android:configChanges
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:63:13-47
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:65:13-53
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:62:13-84
+activity#us.zoom.sdksample.inmeetingfunction.customizedmeetingui.RawDataMeetingActivity
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:67:9-71:56
+	android:screenOrientation
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:70:13-49
+	android:configChanges
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:69:13-83
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:71:13-53
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:68:13-89
+activity#us.zoom.sdksample.inmeetingfunction.zoommeetingui.CustomZoomUIActivity
+ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:73:9-77:56
+	android:hardwareAccelerated
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:76:13-48
+	android:configChanges
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:75:13-59
+	android:theme
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:77:13-53
+	android:name
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml:74:13-81
+uses-sdk
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a06210c6361ff3ea980168cfde2160b\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6a06210c6361ff3ea980168cfde2160b\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.2.0-alpha02] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f74387e7965d557ca23f3007b0c16ea0\material-1.2.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha02] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f74387e7965d557ca23f3007b0c16ea0\material-1.2.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d9af5811d196f85600bee5f06971f000\jetified-viewpager2-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d9af5811d196f85600bee5f06971f000\jetified-viewpager2-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0fe7a84edc604dc56433cdc4c9ec0b62\recyclerview-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0fe7a84edc604dc56433cdc4c9ec0b62\recyclerview-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cb99e77638f7aea73fdfbb0798f74a2b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cb99e77638f7aea73fdfbb0798f74a2b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\019045dec5e38f76b552841946c88194\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\019045dec5e38f76b552841946c88194\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android:flexbox:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b5140f57f6e3be6dc63569f946063af7\jetified-flexbox-2.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android:flexbox:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b5140f57f6e3be6dc63569f946063af7\jetified-flexbox-2.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6aba77ce87b62d8347ca6f06e6145185\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6aba77ce87b62d8347ca6f06e6145185\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:commonlib] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\commonlib\build\.transforms\8b35d12b92b561743ca43b106b0314bb\jetified-commonlib\AndroidManifest.xml:7:5-9:41
+MERGED from [:commonlib] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\commonlib\build\.transforms\8b35d12b92b561743ca43b106b0314bb\jetified-commonlib\AndroidManifest.xml:7:5-9:41
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:8:5-10:41
+MERGED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\844e6d8d110901814b6cf2c0e58db777\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\844e6d8d110901814b6cf2c0e58db777\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\353b43394016bbb413484215d1af8d33\coordinatorlayout-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\353b43394016bbb413484215d1af8d33\coordinatorlayout-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e0e654e7f0e4b26ce0ba0fbab7b3ee8b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e0e654e7f0e4b26ce0ba0fbab7b3ee8b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\962661a2d0e39df4c213a94473258f8a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\962661a2d0e39df4c213a94473258f8a\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6e4c8d1772fc6d6ee2099c68eedf1c03\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\6e4c8d1772fc6d6ee2099c68eedf1c03\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5c010204b349cb67993103f3db4846c3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5c010204b349cb67993103f3db4846c3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1e19b627048259720a9293cff54eca4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1e19b627048259720a9293cff54eca4b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f571276bff67684a540f564f5677638a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f571276bff67684a540f564f5677638a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5772398f154fbb421660eae656082fcd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\5772398f154fbb421660eae656082fcd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\457b24bb365487f19b919b9304bfe494\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\457b24bb365487f19b919b9304bfe494\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\caea093eaa3f4ab10bb21ae1108e4fce\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\caea093eaa3f4ab10bb21ae1108e4fce\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4cd09af75b4e9c80a52041a8e1774876\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4cd09af75b4e9c80a52041a8e1774876\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\65288fada49b0b6c64631011b3fa4627\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9f787e057b2287836884ce91071f4cb1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\9f787e057b2287836884ce91071f4cb1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1653319b2d58e30ed9313b0c2df5947e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\1653319b2d58e30ed9313b0c2df5947e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\25d8934de3004385e90543e0b354fff1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\25d8934de3004385e90543e0b354fff1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\31fe7ec3156d932311e1d63e5afe3838\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\31fe7ec3156d932311e1d63e5afe3838\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a00281b5d84046061d87ced0c5ed5d6f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a00281b5d84046061d87ced0c5ed5d6f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7526d421bacfef31921c7043f85ffde8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7526d421bacfef31921c7043f85ffde8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\13f6a8a8ac08da7eb6eca2e6990d51f4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\13f6a8a8ac08da7eb6eca2e6990d51f4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\be7a7dfb68705840901dbd39fdfd186a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\be7a7dfb68705840901dbd39fdfd186a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\43a209a1574b998fc4c3256029348641\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\43a209a1574b998fc4c3256029348641\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\sample\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.telephony
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:20:9-50
+uses-feature#android.hardware.bluetooth
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.microphone
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:26:9-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:30:22-77
+uses-permission#android.permission.INTERNET
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:35:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:37:22-62
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:39:22-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:40:5-75
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:40:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:41:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:42:5-69
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:42:22-66
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:43:5-78
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:43:22-75
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:45:5-81
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:45:22-78
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:46:5-85
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:46:22-82
+activity#com.zipow.videobox.JoinByURLActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:49:9-53:58
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:52:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:51:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:53:13-55
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:50:13-64
+activity#com.zipow.videobox.IntegrationActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:54:9-58:58
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:57:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:56:13-129
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:58:13-55
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:55:13-66
+activity#com.zipow.videobox.MeetingEndMessageActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:59:9-63:59
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:62:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:61:13-129
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:60:13-72
+activity#com.zipow.videobox.JoinMeetingFailActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:64:9-68:59
+	android:launchMode
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:67:13-44
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:66:13-129
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:65:13-70
+activity#com.zipow.videobox.ConfActivityNormal
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:69:9-73:56
+	android:hardwareAccelerated
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:72:13-48
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:71:13-129
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:70:13-65
+activity#com.zipow.videobox.PListActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:74:9-78:56
+	android:hardwareAccelerated
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:77:13-48
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:76:13-129
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:78:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:75:13-60
+activity#com.zipow.videobox.InMeetingSettingsActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:79:9-83:56
+	android:hardwareAccelerated
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:82:13-48
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:81:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:83:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:80:13-72
+activity#com.zipow.videobox.ConfChatActivityOld
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:84:9-87:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:86:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:87:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:85:13-66
+activity#com.zipow.videobox.CallInActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:88:9-91:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:90:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:91:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:89:13-61
+activity#com.zipow.videobox.SimpleActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:92:9-96:70
+	android:windowSoftInputMode
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:96:13-67
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:94:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:95:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:93:13-61
+activity#com.zipow.videobox.SimpleInMeetingActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:97:9-101:70
+	android:windowSoftInputMode
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:101:13-67
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:99:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:100:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:98:13-70
+activity#com.zipow.videobox.poll.PollingActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:102:9-105:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:104:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:105:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:103:13-67
+activity#com.zipow.videobox.poll.WebinarPollingActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:106:9-109:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:108:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:109:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:107:13-74
+activity#com.zipow.videobox.poll.PollingResultActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:110:9-113:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:112:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:113:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:111:13-73
+activity#com.zipow.videobox.poll.WebinarPollingResultActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:114:9-117:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:116:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:117:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:115:13-80
+activity#us.zoom.androidlib.app.ZMFileListActivity
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:118:9-121:56
+	android:configChanges
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:120:13-139
+	android:theme
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:121:13-53
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:119:13-69
+service#com.zipow.videobox.kubi.KubiService
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:123:9-126:51
+	android:label
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:126:13-48
+	android:exported
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:125:13-37
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:124:13-63
+service#com.zipow.videobox.OnClearFromRecentService
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:127:9-129:40
+	android:exported
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:129:13-37
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:128:13-71
+service#com.zipow.videobox.share.ScreenShareServiceForSDK
+ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:130:9-134:51
+	android:label
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:134:13-48
+	android:exported
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:132:13-37
+	android:foregroundServiceType
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:133:13-60
+	android:name
+		ADDED from [:mobilertc] C:\Users\HP\StudioProjects\zoom-sdk-android-master\FYP\mobilertc-android-studio\mobilertc\build\.transforms\2c492fd07c9fa5d6543d2f02c7e48ae3\jetified-mobilertc\AndroidManifest.xml:131:13-77

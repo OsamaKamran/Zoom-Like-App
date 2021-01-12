@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:background="@drawable/bg_login"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:contentDescription="logo"
+        android:src="@drawable/ic_flattr"/>
+
+    <Button
+        android:id="@+id/btnSSOLogin"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="@drawable/btn_bg"
+        android:textAllCaps="false"
+        android:padding="16dp"
+        android:minWidth="150dp"
+        android:text="SSO Login User"
+        android:textColor="@color/login_form_details"/>
+
+    <Button
+        android:id="@+id/btnWithoutLogin"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="@drawable/btn_bg"
+        android:textAllCaps="false"
+        android:padding="16dp"
+        android:minWidth="150dp"
+        android:text="API User"
+        android:textColor="@color/login_form_details"/>
+
+    <Button
+        android:id="@+id/btn_return"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_gravity="center_horizontal"
+        android:minWidth="150dp"
+        android:onClick="onClickReturnMeeting"
+        android:background="@drawable/btn_bg"
+        android:textAllCaps="false"
+        android:padding="16dp"
+        android:visibility="gone"
+        android:text="Return Meeting"
+        android:textColor="@color/login_form_details"/>
+
+    <LinearLayout
+        android:id="@+id/layout_join"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingHorizontal="40dp">
+
+        <EditText
+            android:id="@+id/edit_join_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Input Meeting number"
+            android:background="@drawable/et_bg"
+            android:textColorHint="@color/login_form_details"
+            android:textColor="@color/login_form_details"
+            android:padding="16dp"
+            android:minWidth="150dp"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/edit_join_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_bg"
+            android:textColorHint="@color/login_form_details"
+            android:textColor="@color/login_form_details"
+            android:layout_marginTop="16dp"
+            android:padding="16dp"
+            android:minWidth="150dp"
+            android:hint="Input user name" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btn_bg"
+            android:minWidth="150dp"
+            android:onClick="onClickJoin"
+            android:padding="16dp"
+            android:text="Join Meeting"
+            android:textAllCaps="false"
+            android:textColor="@color/login_form_details_medium"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+            <Button
+                android:id="@+id/btnSettings"
+                android:onClick="onClickSettings"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/btn_bg"
+                android:textAllCaps="false"
+                android:padding="16dp"
+                android:minWidth="150dp"
+                android:visibility="gone"
+                android:text="Settings"
+                android:textColor="@color/login_form_details"/>
+
+            <Button
+                android:id="@+id/btnEmailLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginRight="32dp"
+                android:background="@drawable/btn_bg"
+                android:textAllCaps="false"
+                android:padding="16dp"
+                android:minWidth="150dp"
+                android:text="Email Login User"
+                android:textColor="@color/login_form_details"/>
+
+            <TextView
+                android:id="@+id/signup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sign Up"
+                android:onClick="signup"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/login_form_details"
+                android:textSize="18sp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical">
+
+        <RadioGroup
+            android:id="@+id/radio_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/sd_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="SD"
+                android:buttonTint="@color/login_form_details"
+                android:textColor="@color/login_form_details"/>
+
+            <RadioButton
+                android:id="@+id/hd_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:text="HD"
+                android:buttonTint="@color/login_form_details"
+                android:textColor="@color/login_form_details"/>
+        </RadioGroup>
+
+        <CheckBox
+            android:id="@+id/audio_check_box"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/radio_group"
+            android:layout_below="@+id/radio_group"
+            android:layout_marginTop="8dp"
+            android:checked="true"
+            android:buttonTint="@color/login_form_details"
+            android:text="audio"
+            android:textColor="@color/login_form_details"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/audio_check_box"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/button_start"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin"
+                android:paddingBottom="@dimen/padding_vertical"
+                android:paddingLeft="@dimen/padding_horizontal"
+                android:paddingRight="@dimen/padding_horizontal"
+                android:paddingTop="@dimen/padding_vertical"
+                android:text="start"
+                android:onClick="popo"
+                android:textColor="@color/login_form_details"
+                android:textSize="@dimen/text_size_20"
+                tools:text="start"/>
+
+            <TextView
+                android:id="@+id/button_stop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin"
+                android:paddingBottom="@dimen/padding_vertical"
+                android:paddingLeft="@dimen/padding_horizontal"
+                android:paddingRight="@dimen/padding_horizontal"
+                android:paddingTop="@dimen/padding_vertical"
+                android:text="stop"
+                android:visibility="invisible"
+                android:onClick="popo"
+                android:textColor="@color/login_form_details"
+                android:textSize="@dimen/text_size_20"
+                tools:text="stop"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/progressPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtConnecting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:text="Logining... " />
+    </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

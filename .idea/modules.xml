@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonlib/commonlib.iml" filepath="$PROJECT_DIR$/.idea/modules/commonlib/commonlib.iml" group="mobilertc-android-studio/commonlib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobilertc/mobilertc.iml" filepath="$PROJECT_DIR$/.idea/modules/mobilertc/mobilertc.iml" group="mobilertc-android-studio/mobilertc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobilertc-android-studio.iml" filepath="$PROJECT_DIR$/.idea/modules/mobilertc-android-studio.iml" group="mobilertc-android-studio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/sample.iml" group="mobilertc-android-studio/sample" />
+    </modules>
+  </component>
+</project>

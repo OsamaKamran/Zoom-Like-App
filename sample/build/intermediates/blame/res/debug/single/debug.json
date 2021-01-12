@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_meeting_noaudio.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_meeting_noaudio.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_meeting_action_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\meeting_action_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_item_attend.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\item_attend.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_login_user_start_join.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\login_user_start_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_control_highlight.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_control_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_item_user_video.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\item_user_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_two_fingers_pinch.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_two_fingers_pinch.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zoom_intro1_share.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\zoom_intro1_share.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flattr.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\ic_flattr.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_meeting_action_bg_normal.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\meeting_action_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_thumb_on.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\switch_custom_thumb_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_meeting_audio.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_meeting_audio.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_meeting_audio_mute.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_meeting_audio_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_videoview_item.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\videoview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_speaker_on.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_speaker_on.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_thumb_off.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\switch_custom_thumb_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_meeting_video.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_meeting_video.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_video_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\video_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_mouse_icon.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_mouse_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_meeting_window.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\layout_meeting_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_keyboard_highlight.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_keyboard_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_bg_login.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\bg_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_control_normal.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_control_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_track_off.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\switch_custom_track_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_activity_rawdata.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\activity_rawdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_drawer.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_frame_two.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-nodpi\\frame_two.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_popupwindow.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_shrink.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_shrink.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_frame_one.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-nodpi\\frame_one.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_track_selector.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\switch_custom_track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_speaker_off.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_speaker_off.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_pause.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_share_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_video_list.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\layout_video_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_zm_normal_message_tip.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\zm_normal_message_tip.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_ic_if_square_facebook.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\ic_if_square_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_option_topbar.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\layout_option_topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_my_meeting_layout.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\my_meeting_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_end_meeting.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_end_meeting.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_bg_transparent.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\bg_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_mouse_normal.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_mouse_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_track_on.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\switch_custom_track_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_keyboard_normal.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_keyboard_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_video_list_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\video_list_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_meeting_option.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\layout_meeting_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_two_fingers_scroll.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_two_fingers_scroll.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_menu_item.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_alterhost_item.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\alterhost_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_init_auth_sdk.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\init_auth_sdk.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_annotatebar.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\annotatebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_down_normal.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\arrow_down_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_video_item_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\video_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_resume.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_share_resume.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_zm_rc_control_reverse_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\zm_rc_control_reverse_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_one_finger_tap.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_one_finger_tap.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_email_login_activity.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\email_login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_question_normal.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_question_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_selector_lans.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\selector_lans.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_one_finger_long_tap.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_one_finger_long_tap.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_et_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_meeting_action_bg_pressed.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\meeting_action_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_thumb_selector.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\switch_custom_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_meeting_more.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_meeting_more.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_zm_rc_control.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\zm_rc_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\color_lan_text_selector.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\color\\lan_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_annocolorlayout.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\annocolorlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_input_password_name.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\layout_input_password_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_question_pressed.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_question_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_meeting_video_mute.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_meeting_video_mute.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zm_rc_one_finger_double_taps.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-hdpi\\zm_rc_one_finger_double_taps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_layout_meeting_bottombar.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\layout_meeting_bottombar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\layout_dialog_meeting_interpretation.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\layout\\dialog_meeting_interpretation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_video_active_item_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\video_active_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_switch_camera.png.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable-xhdpi\\icon_switch_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_end_meeting_action_bg.xml.flat",
+        "source": "C:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\src\\main\\res\\drawable\\end_meeting_action_bg.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Dec 27 18:10:39 PKT 2020
+base.0=C\:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\dex\\release\\shrunkDex\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\HP\\StudioProjects\\zoom-sdk-android-master\\FYP\\mobilertc-android-studio\\sample\\build\\intermediates\\dex\\release\\shrunkDex\\classes2.dex
