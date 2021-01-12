@@ -1,4 +1,4 @@
 # Zoom-Like-App
 
-![](Capture.png)
+![](Capture.PNG)
 
